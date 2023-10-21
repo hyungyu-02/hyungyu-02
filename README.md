@@ -1,21 +1,11 @@
-### KU CSE 21 Hyungyu
-
 <!--
-**hyungyu-02/hyungyu-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![header](https://capsule-render.vercel.app/api?type=Rounded&text=KU%20CSE%2021%20HyunGyu&color=555555&fontColor=FFFFFF&fontSize=42&fontAlignY=54)
-<!--
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyungyu-02&show_icons=true&theme=radical)
 -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=KU%20CSE%2021%20HyunGyu&fontColor=FFFFFF&fontSize=30" />
+
+<!--### KU CSE 21 Hyungyu-->
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yona0209)](https://solved.ac/yona0209)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyungyu-02&layout=compact&theme=dark)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
+
